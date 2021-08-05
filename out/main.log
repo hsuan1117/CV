@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.8.5)  5 AUG 2021 14:28
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.8.5)  5 AUG 2021 14:41
  restricted system commands enabled.
  file:line:error style messages enabled.
 **main.tex
@@ -1612,13 +1612,13 @@ Overfull \hbox (204.39828pt too wide) in alignment at lines 423--423
 
 (load cache: extra_lmsans12-regular.luc)
 LaTeX Font Info:    Font shape `JT3/MSJH(0)/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 510.
+(Font)              scaled to size 11.54663pt on input line 503.
 LaTeX Font Info:    Font shape `JY3/MSJH(0)/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 510.
-./main.tex:510: Undefined control sequence.
+(Font)              scaled to size 11.54663pt on input line 503.
+./main.tex:503: Undefined control sequence.
 <recently read> \makecell 
           
-l.510 \end{minipage}}
+l.503 \end{minipage}}
                    
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1627,29 +1627,29 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    Font shape `JT3/MSJH(0)/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 510.
+(Font)              scaled to size 16.62714pt on input line 503.
 LaTeX Font Info:    Font shape `JY3/MSJH(0)/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 510.
+(Font)              scaled to size 16.62714pt on input line 503.
 <qrcode.png, id=6, 582.175pt x 582.175pt>
 File: qrcode.png Graphic file (type png)
 <use qrcode.png>
-Package luatex.def Info: qrcode.png  used on input line 510.
+Package luatex.def Info: qrcode.png  used on input line 503.
 (luatex.def)             Requested size: 58.41284pt x 58.40746pt.
 
-Overfull \hbox (24.75583pt too wide) in paragraph at lines 423--511
+Overfull \hbox (24.75583pt too wide) in paragraph at lines 423--504
 [][][][][][][] 
  []
 
 (load cache: extra_lmsans9-regular.luc)
 LaTeX Font Info:    Font shape `JT3/MSJH(0)/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 518.
+(Font)              scaled to size 8.65997pt on input line 511.
 LaTeX Font Info:    Font shape `JY3/MSJH(0)/m/n' will be
-(Font)              scaled to size 8.65997pt on input line 518.
+(Font)              scaled to size 8.65997pt on input line 511.
 (load cache: extra_lmroman9-regular.luc)(load cache: extra_lmroman6-regular.luc)
 LaTeX Font Info:    Font shape `JY3/MSJH(0)/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 518.
+(Font)              scaled to size 5.77332pt on input line 511.
 
-Overfull \hbox (145.41855pt too wide) in paragraph at lines 518--519
+Overfull \hbox (145.41855pt too wide) in paragraph at lines 511--512
 [] [][][][][][] 
  []
 
@@ -1667,12 +1667,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Here is how much of LuaTeX's memory you used:
  24214 strings out of 478531
- 477806,953878 words of node,token memory allocated
- 22806 words of node memory still in use:
-   7 hlist, 1 vlist, 4 rule, 2 glue, 374 kern, 1 glyph, 8928 attribute, 339 glue
-_spec, 464 attribute_list, 2 write, 64 user_defined nodes
-   avail lists: 1:31,2:136447,3:2324,4:3070,5:646,6:303,7:12593,8:1,9:3082,10:9,
-11:810,12:1
+ 477804,953878 words of node,token memory allocated
+ 22656 words of node memory still in use:
+   7 hlist, 1 vlist, 4 rule, 2 glue, 374 kern, 1 glyph, 8894 attribute, 325 glue
+_spec, 462 attribute_list, 2 write, 62 user_defined nodes
+   avail lists: 1:31,2:128710,3:2315,4:2650,5:550,6:291,7:11954,8:1,9:2890,10:9,
+11:789,12:1
  42958 multiletter control sequences out of 65536+600000
  76 fonts using 71131431 bytes
  117i,12n,110p,1754b,661s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1684,7 +1684,7 @@ local/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf>
 /usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans10-regular.otf
 ></Users/hsuan1117/Library/Fonts/MSJH.TTC></usr/local/texlive/2021/texmf-dist/fo
 nts/type1/nowacki/iwona/iwonali.pfb>
-Output written on main.pdf (1 page, 233507 bytes).
+Output written on main.pdf (1 page, 237598 bytes).
 
 PDF statistics: 62 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
